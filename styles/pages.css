@@ -1,0 +1,134 @@
+.pages {
+    list-style: none;
+    display: flex;
+    vertical-align: middle;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.pages a {
+    text-decoration: none;
+    color: black;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: auto;
+    display: flex;
+}
+
+#dernieres_demandes {
+    background-color: #D8D2C2;
+    text-align: center;
+    padding-top: 10px;
+    margin: auto;
+    box-shadow: 15px 20px 7px rgba(0, 0, 0, 0.3);
+    padding-left: 5px;
+    padding-right: 5px;
+    width: 500px;
+}
+
+#dernieres_demandes:hover {
+    scale: 1.01;
+}
+
+#dernieres_demandes i {
+    font-size: 100px;
+}
+
+#visas {
+    background-color: #D8D2C2;
+    text-align: center;
+    padding-top: 10px;
+    margin: auto;
+    box-shadow: 15px 20px 7px rgba(0, 0, 0, 0.3);
+    padding-left: 5px;
+    padding-right: 5px;
+    width: 500px;
+    margin: auto;
+}
+
+#visas:hover {
+    scale: 1.01;
+}
+
+#visas i {
+    font-size: 100px;
+}
+
+#caf {
+    background-color: #D8D2C2;
+    text-align: center;
+    padding-top: 10px;
+    margin: auto;
+    box-shadow: 15px 20px 7px rgba(0, 0, 0, 0.3);
+    padding-left: 5px;
+    padding-right: 5px;
+    width: 500px;
+    margin: auto;
+}
+
+#caf:hover {
+    scale: 1.01;
+}
+
+#caf i {
+    font-size: 100px;
+}
+
+#permis_de_travail {
+    background-color: #D8D2C2;
+    text-align: center;
+    padding-top: 10px;
+    margin: auto;
+    box-shadow: 15px 20px 7px rgba(0, 0, 0, 0.3);
+    padding-left: 5px;
+    padding-right: 5px;
+    width: 500px;
+}
+
+#permis_de_travail:hover {
+    scale: 1.01;
+}
+
+#permis_de_travail i {
+    font-size: 100px;
+}
+
+#impots {
+    background-color: #D8D2C2;
+    text-align: center;
+    padding-top: 10px;
+    margin: auto;
+    box-shadow: 15px 20px 7px rgba(0, 0, 0, 0.3);
+    padding-left: 5px;
+    padding-right: 5px;
+    width: 500px;
+    margin: auto;
+}
+
+#impots:hover {
+    scale: 1.01;
+}
+
+#impots i {
+    font-size: 100px;
+}
+
+#permis_de_conduire {
+    background-color: #D8D2C2;
+    text-align: center;
+    padding-top: 10px;
+    margin: auto;
+    box-shadow: 15px 20px 7px rgba(0, 0, 0, 0.3);
+    padding-left: 5px;
+    padding-right: 5px;
+    width: 500px;
+    margin: auto;
+}
+
+#permis_de_conduire:hover {
+    scale: 1.01;
+}
+
+#permis_de_conduire i {
+    font-size: 100px;
+}

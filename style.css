@@ -1,0 +1,19 @@
+body {
+    background-color: #FAF7F0;
+}
+
+#title {
+    color: #B17457;
+}
+
+.text {
+    color: #4A4947;
+}
+
+#top_page {
+    margin-top: 100px;
+}
+
+a {
+    text-decoration: none;
+}
